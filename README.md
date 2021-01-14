@@ -13,3 +13,5 @@
 # TASK 5: Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’ i.e. As a sports analysts, find out the most successful teams, players and factors contributing to win or loss of a team. (matches.csv and deliveries.csv)
 
 # TASK 6: Prediction using Decision Tree Algorithm i.e. Create the Decision Tree classifier and visualize it graphically. (iris.csv)
+
+# TASK 8: Timeline Analysis : Covid-19 i.e. Identify interesting patterns and possible reasons helping Covid-19 spread with basic as well as advanced charts (covid.csv)
